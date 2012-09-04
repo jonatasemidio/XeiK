@@ -17,6 +17,9 @@ With this initiative we will build an environment that follows all the good prac
 
 XeiK will improve your process, bring this gifts for your environment in a fast and easy way.
 ---------------------------------------------------------------------------------------------
+Site: [jonatasemidio.github.com/XeiK]
+
 
 By: [Jonatas Emidio]
 [Jonatas Emidio]: http://jonatasemidio.com
+[jonatasemidio.github.com/XeiK]: http://jonatasemidio.github.com/XeiK/
