@@ -16,7 +16,7 @@ Put all of this gifts together and integrate all of them.
 With this initiative we will build an environment that follows all the good practices for agile projects.
 
 ------------
-### XeiK incluirá!!
+### XeiK will include!!
 
 * [Grails]
 * [Jenkins]
