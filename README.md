@@ -15,6 +15,21 @@ What is the XeiK goals?
 Put all of this gifts together and integrate all of them. 
 With this initiative we will build an environment that follows all the good practices for agile projects.
 
+------------
+### XeiK incluirá!!
+
+* [Grails]
+* [Jenkins]
+* [Sonar] 
+* [Bloodhound]
+
+------------
+
+[Grails]: http://grails.org/
+[Jenkins]: http://jenkins-ci.org/
+[Sonar]: http://www.sonarsource.org/
+[Bloodhound]: http://bloodhound.apache.org/
+
 XeiK will improve your process, bring this gifts for your environment in a fast and easy way.
 ---------------------------------------------------------------------------------------------
 Site: [jonatasemidio.github.com/XeiK]
